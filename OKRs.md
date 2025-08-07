@@ -1,0 +1,1 @@
+OKR stands for Objectives and Key Results. It is a goal-setting framework used by individuals, teams, and organizations to define and track progress toward achieving specific, measurable goals. Essentially, it's a method for setting ambitious goals (the Objectives) and then defining measurable outcomes (Key Results) that indicate progress toward those goals. 
