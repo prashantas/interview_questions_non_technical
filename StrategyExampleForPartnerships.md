@@ -5,7 +5,7 @@ In my leadership roles across HPE, GE Healthcare, and earlier at Adobe, I’ve o
 
 1. Internal Partnership Strategy (HPE):
 At HPE, I led a cross-functional effort for an MLOps platform release. Success depended not just on engineering, but on alignment with security, product management, customer onboarding, and marketing.
-To drive this, I created a “platform working group” model where stakeholders from each function had clear roles, shared OKRs, and participated in sprint reviews. This transparency reduced friction, improved delivery speed, and ensured a smooth go-to-market. It also helped our customer adoption grow from zero to active users in less than a month post-launch.
+To drive this, I created a “platform working group” model where stakeholders from each function had clear roles, shared OKRs (Objective & Key Results), and participated in sprint reviews. This transparency reduced friction, improved delivery speed, and ensured a smooth go-to-market. It also helped our customer adoption grow from zero to active users in less than a month post-launch.
 
 2. External Tech Partnership (GE Healthcare):
 At GE Healthcare, we were building AI inferencing services and needed reliable, low-latency performance on edge devices. I proposed and drove a technical partnership with NVIDIA to leverage TensorRT.
