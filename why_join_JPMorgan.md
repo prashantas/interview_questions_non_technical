@@ -1,5 +1,6 @@
-Help me answer the following intrview question in very simple words for a director of software engineering role asked at JP Morgan India
+Help me answer the following intrview question in very simple words for a director of software engineering role asked at JP Morgan India. on my background , I have 16 years of experience in various organization like samsung, adobe, GE healhcare, couple of fast paced startups in various role like developers , tech lead, architect besides my current job as a senior technical product manager at HPE
 "Why do you want to join us ?"
+
 
 With 16 years of experience across companies like Samsung, Adobe, GE Healthcare, startups, and now HPE, I’ve seen how great products and platforms are built — from early-stage ideas to large-scale enterprise solutions.
 
