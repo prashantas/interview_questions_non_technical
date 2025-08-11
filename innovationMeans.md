@@ -1,4 +1,6 @@
 What does innovation mean to you and give me an example of when you took a customer insight and drove innovation????
+
+
 ANS:::
 To me, innovation means solving real problems in new and better ways — not just using the latest technology for its own sake, but using it purposefully to deliver measurable value to customers and the business. At the Director level, it also means enabling a culture where teams can experiment, learn fast, and scale impactful ideas — with governance, not chaos.
  
