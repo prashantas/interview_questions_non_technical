@@ -4,7 +4,8 @@ Leadership & People Management
 Tell me about your leadership style. How do you adapt it to different team members?
 
 #############################################################################################
-How do you build, scale, and retain high-performing engineering teams?
+
+How do you build, scale, and retain high-performing engineering teams??????????????????????????????????????????????????????
 
 ANS: I approach this in three phases — building the right foundation, scaling effectively, and retaining talent by creating an environment where people thrive.
 
