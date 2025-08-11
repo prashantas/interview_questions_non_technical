@@ -3,6 +3,20 @@ Leadership & People Management
 *************************************************************************************************
 Tell me about your leadership style. How do you adapt it to different team members?
 
+ANS: My leadership style is situational but rooted in three constants — clarity, empowerment, and accountability.
+
+I believe in setting a clear vision and outcomes, then giving teams the autonomy to decide how to get there. At HPE, leading multiple product owners, I used OKRs to align everyone on priorities, but I let each owner manage their backlog in the way that worked best for their engineering squad.
+
+I adapt based on the individual:
+
+For experienced, self-driven engineers or leads, I take a coaching style — offering guidance, removing blockers, and giving space for innovation.
+
+For newer team members or those in unfamiliar domains, I use a hands-on, directive approach initially — pairing them with mentors, reviewing plans closely, and gradually increasing their independence.
+
+At GE Healthcare, I had both profiles in the same team — senior AI engineers who thrived on autonomy and junior developers transitioning from monolithic to microservices. Adjusting my style allowed both groups to perform at their best while still moving as one team toward the product goals.
+
+For me, adapting isn’t about lowering standards — it’s about meeting people where they are, so they can grow, contribute, and stay engaged."**
+
 #############################################################################################
 
 How do you build, scale, and retain high-performing engineering teams??????????????????????????????????????????????????????
