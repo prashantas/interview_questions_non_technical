@@ -91,6 +91,14 @@ My principle is: Deliver fast, but never so fast that you have to slow down late
 
 How do you manage distributed or global teams effectively?
 
-ANSWER::
+ANSWER:: Managing distributed teams is about creating alignment, enabling effective communication, and building trust despite distance and time zones.
+
+First, I ensure there’s a shared vision and clarity on ownership. At HPE, my product owner team supported engineering squads spread across India, the US, and Europe. We used OKRs and a shared delivery dashboard so everyone, regardless of location, had the same view of goals and progress.
+
+Second, I tailor communication to the team’s geography — combining asynchronous updates (Confluence pages, Slack channels, Jira boards) with regular overlap meetings for high-touch discussions. This prevents decision bottlenecks in one region and keeps momentum going around the clock.
+
+Third, I invest in relationship building — even virtual coffee chats, recognition in team meetings, and rotating meeting times to share the inconvenience fairly. At GE Healthcare, this helped create a “one team” culture, reducing friction between US and India teams during critical delivery phases.
+
+Finally, I make sure that remote teams have equal access to leadership, high-impact work, and decision-making forums, so they feel empowered and not like secondary contributors. This inclusion is what drives engagement and performance in a global setup."**
 
 ##############################################################################################
