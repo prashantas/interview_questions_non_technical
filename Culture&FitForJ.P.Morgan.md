@@ -72,4 +72,9 @@ ANSWER::
 
 Tell me about a time you worked across multiple regions — what challenges did you face and how did you overcome them?
 
+ANSWER::
+
+
+###################################################################################################################################
+
 How do you handle situations where business priorities shift mid-project?
